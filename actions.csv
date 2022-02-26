@@ -42,3 +42,7 @@ take, setSelection
 type deaf, revealTypeDefinition
 unfold, unfoldRegion
 wrap, wrapWithPairedDelimiter
+
+# 2021-12-31 08:50:18 - New entries automatically added by cursorless
+give, deselect
+repack, rewrap
