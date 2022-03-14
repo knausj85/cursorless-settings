@@ -33,3 +33,14 @@ word, word
 
 # 2021-12-31 08:50:18 - New entries automatically added by cursorless
 condition, condition
+
+# 2022-03-13 18:15:22 - New entries automatically added by cursorless
+-five section, sectionLevelFive
+-four section, sectionLevelFour
+-one section, sectionLevelOne
+-six section, sectionLevelSix
+-three section, sectionLevelThree
+-two section, sectionLevelTwo
+link, url
+paint, nonWhitespaceSequence
+section, section

@@ -46,3 +46,8 @@ wrap, wrapWithPairedDelimiter
 # 2021-12-31 08:50:18 - New entries automatically added by cursorless
 give, deselect
 repack, rewrap
+
+# 2022-03-13 18:15:23 - New entries automatically added by cursorless
+follow, followLink
+highlight, highlight
+shuffle, randomizeTargets
