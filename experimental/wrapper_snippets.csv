@@ -3,3 +3,9 @@ else, ifElseStatement.alternative
 if, ifStatement.consequence
 if else, ifElseStatement.consequence
 try, tryCatchStatement.body
+
+# 2022-03-13 12:00:21 - New entries automatically added by cursorless
+link, link.text
+
+# 2022-08-06 15:43:49 - New entries automatically added by cursorless
+funk, functionDeclaration.body
