@@ -28,6 +28,7 @@ paste to, pasteFromClipboard
 phones, nextHomophone
 post, setSelectionAfter
 pour, editNewLineAfter
+poor, editNewLineAfter
 pre, setSelectionBefore
 puff, insertEmptyLinesAround
 quick fix, showQuickFix
@@ -56,6 +57,17 @@ shuffle, randomizeTargets
 snippet, insertSnippet
 snippet make, generateSnippet
 
+
+# 2023-12-10 11:07:15 - New entries automatically added by cursorless
+break, breakLine
+join, joinLines
+
+# 2024-06-02 10:00:27 - New entries automatically added by cursorless
+decrement, decrement
+increment, increment
+
+# 2024-07-28 17:28:53 - New entries automatically added by cursorless
+follow split, followLinkAside
 
 # 2024-02-19 06:43:03 - New entries automatically added by cursorless
 break, breakLine
