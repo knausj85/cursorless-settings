@@ -1,81 +1,60 @@
 Spoken form, Cursorless identifier
-arg, argumentOrParameter
-attribute, attribute
-block, paragraph
-call, functionCall
-cell, notebookCell
-char, character
-class, class
-class name, className
-comment, comment
-element, xmlElement
-end tag, xmlEndTag
-file, document
-funk, namedFunction
-funk name, functionName
-if state, ifStatement
-item, collectionItem
-key, collectionKey
-lambda, anonymousFunction
-line, line
-list, list
-map, map
-name, name
-regex, regularExpression
-start tag, xmlStartTag
-state, statement
-string, string
-tags, xmlBothTags
-token, token
-type, type
-value, value
-word, word
-
-# 2021-12-31 08:50:18 - New entries automatically added by cursorless
-condition, condition
-
-# 2022-03-13 12:00:21 - New entries automatically added by cursorless
 -five section, sectionLevelFive
 -four section, sectionLevelFour
 -one section, sectionLevelOne
 -six section, sectionLevelSix
 -three section, sectionLevelThree
 -two section, sectionLevelTwo
-link, url
-paint, nonWhitespaceSequence
-section, section
-
-# 2022-05-29 17:17:07 - New entries automatically added by cursorless
-selector, selector
-
-# 2022-08-06 15:43:44 - New entries automatically added by cursorless
+arg, argumentOrParameter
+attribute, attribute
+block, paragraph
+branch, branch
+call, functionCall
 callee, functionCallee
-short paint, boundedNonWhitespaceSequence
-
-# 2022-08-21 12:39:41 - New entries automatically added by cursorless
+cell, notebookCell
 chapter, chapter
+char, character
+class, class
+class name, className
+command, command
+comment, comment
+condition, condition
+element, xmlElement
+end tag, xmlEndTag
 environment, environment
+file, document
+funk, namedFunction
+funk name, functionName
+glyph, glyph
+identifier, identifier
+if state, ifStatement
+instance, instance
+item, collectionItem
+key, collectionKey
+lambda, anonymousFunction
+line, line
+link, url
+list, list
+map, map
+name, name
+paint, nonWhitespaceSequence
 paragraph, namedParagraph
 part, part
+regex, regularExpression
+section, section
+selector, selector
+sentence, sentence
+short block, boundedParagraph
+short paint, boundedNonWhitespaceSequence
+start tag, xmlStartTag
+state, statement
+string, string
+sub, word
 subparagraph, subParagraph
 subsection, subSection
 subsubsection, subSubSection
-
-# 2022-12-03 17:56:31 - New entries automatically added by cursorless
-identifier, identifier
+tags, xmlBothTags
+token, token
+type, type
 unit, unit
-
-# 2023-01-09 20:29:02 - New entries automatically added by cursorless
-branch, branch
-
-
-# 2023-08-11 10:58:40 - New entries automatically added by cursorless
-command, command
-instance, instance
-sentence, sentence
-
-# 2024-02-19 06:43:03 - New entries automatically added by cursorless
-glyph, glyph
-
-# 2024-11-11 20:42:32 - New entries automatically added by cursorless
-short block, boundedParagraph
+value, value

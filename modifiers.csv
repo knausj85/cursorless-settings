@@ -1,34 +1,21 @@
 Spoken form, Cursorless identifier
-bound, excludeInterior
-head, extendThroughStartOf
-inside, interiorOnly
-just, toRawSelection
-slice, verticalRange
-tail, extendThroughEndOf
-
-
-# 2022-08-06 15:43:45 - New entries automatically added by cursorless
-leading, leading
-trailing, trailing
-
-# 2022-12-03 17:56:29 - New entries automatically added by cursorless
 backward, backward
+bounds, excludeInterior
 content, keepContentFilter
 empty, keepEmptyFilter
 every, every
 first, first
 forward, forward
+grand, ancestor
+head, extendThroughStartOf
+inside, interiorOnly
 its, inferPreviousMark
+just, toRawSelection
 last, last
+leading, leading
 next, next
 previous, previous
-
-# 2023-12-10 11:07:15 - New entries automatically added by cursorless
-visible, visible
-
-# 2023-12-26 09:48:30 - New entries automatically added by cursorless
-grand, ancestor
-
-# 2024-02-19 06:43:03 - New entries automatically added by cursorless
-grand, ancestor
+slice, verticalRange
+tail, extendThroughEndOf
+trailing, trailing
 visible, visible

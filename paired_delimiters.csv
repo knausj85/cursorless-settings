@@ -1,16 +1,14 @@
 Spoken form, Cursorless identifier
+box, squareBrackets
 curly, curlyBrackets
 diamond, angleBrackets
+escaped box, escapedSquareBrackets
 escaped quad, escapedDoubleQuotes
+escaped round, escapedParentheses
 escaped twin, escapedSingleQuotes
+pair, any
 quad, doubleQuotes
 round, parentheses
 skis, backtickQuotes
-square, squareBrackets
 twin, singleQuotes
 void, whitespace
-
-# 2021-12-31 08:50:18 - New entries automatically added by cursorless
-escaped round, escapedParentheses
-escaped square, escapedSquareBrackets
-pair, any
