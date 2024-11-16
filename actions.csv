@@ -7,7 +7,7 @@ call, callAsFunction
 carve, cutToClipboard
 center, scrollToCenter
 change, clearAndSetSelection
-chuck, remove
+clear, remove
 clone, insertCopyAfter
 clone up, insertCopyBefore
 comment, toggleLineComment
@@ -16,7 +16,7 @@ crown, scrollToTop
 decrement, decrement
 dedent, outdentLine
 define, revealDefinition
-drink, editNewLineBefore
+rise, editNewLineBefore
 drop, insertEmptyLineBefore
 extract, extractVariable
 float, insertEmptyLineAfter
@@ -35,7 +35,7 @@ move, moveToTarget
 paste, pasteFromClipboard
 phones, nextHomophone
 post, setSelectionAfter
-pour, editNewLineAfter
+fall, editNewLineAfter
 pre, setSelectionBefore
 puff, insertEmptyLinesAround
 quick fix, showQuickFix
